@@ -15,7 +15,7 @@ We will:
 
 ## Members
 
-- [Dan Lewis](https://github.com/don.lewi)
+- [Dan Lewis](https://github.com/agentlewis)
 - [Iain Kirkpatrick](https://github.com/iainkirkpatrick/)
 - [Michael Smith](https://github.com/NotThatSmith)
 - [Mikey Williams](https://github.com/ahdinosaur)
