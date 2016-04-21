@@ -7,5 +7,5 @@
    * [Comms Guidelines](culture_&_tools/comms_guidelines.md)
 * [Agreements](agreements/readme.md)
    * [Financial Agreement](agreements/financial_agreement.md)
-* [More Info](More Info)
+* [More Info](more_info/readme.md)
 
