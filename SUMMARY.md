@@ -6,6 +6,6 @@
 * [Culture & Tools](culture-&-tools/readme.md)
    * [Comms Guidelines](culture-&-tools/comms-guidelines.md)
 * [Agreements](agreements/readme.md)
-   * Financial Agreement
+   * [Financial Agreement](agreements/financial_agreement.md)
 * [More Info](More Info)
 
