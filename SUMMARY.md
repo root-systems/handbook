@@ -1,7 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
-* [Context](chapter1.md)
+* [Context](context/readme.md)
    * [Vision](context/vision.md)
 * [Culture & Tools](Culture & Tools)
 * [Agreements](Agreements)
