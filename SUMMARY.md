@@ -5,6 +5,6 @@
    * [Vision](context/vision.md)
 * [Culture & Tools](culture-&-tools/readme.md)
    * [Comms Guidelines](culture-&-tools/comms-guidelines.md)
-* [Agreements](Agreements)
+* [Agreements](agreements/readme.md)
 * [More Info](More Info)
 
