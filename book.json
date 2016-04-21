@@ -1,0 +1,8 @@
+{
+    "variables": {
+        "organisations": {
+          "enspiral-handbook": "git+https://github.com/enspiral/handbook.git/"
+        }
+    }
+}
+
