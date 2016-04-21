@@ -4,7 +4,7 @@
 * [Context](context/readme.md)
    * [Vision](context/vision.md)
 * [Culture & Tools](culture-&-tools/readme.md/readme.md)
-   * Comms Guidelines
+   * [Comms Guidelines](culture-&-tools/comms-guidelines.md)
 * [Agreements](Agreements)
 * [More Info](More Info)
 
