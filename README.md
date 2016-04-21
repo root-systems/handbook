@@ -1,5 +1,7 @@
 # Enspiral Root Systems
 
+[![Stories in Ready](https://badge.waffle.io/enspiral-root-systems/meta.svg?label=ready&title=Ready)](http://waffle.io/enspiral-root-systems/meta)
+
 ## Purpose (Why)
 
 Our purpose is to imagine and cultivate local replicable life-support systems for interdependent abundance.
