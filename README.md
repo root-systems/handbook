@@ -11,7 +11,7 @@ We will:
 - plan our economic needs, wants, and offers together (i.e. selling services, saving money, buying food)
 - cultivate a common stack (e.g. [`business-stack`](https://github.com/enspiral-craftworks/business-stack))
 - cultivate ecosystem of living life-support apps (e.g. [Open App Ecosystem](https://github.com/open-app/core) -> [Collaborative Technology Alliance](https://medium.com/enspiral-tales/doing-more-together-together-seeding-a-collaborative-technology-alliance-82243ea30d41))
-- cultivate universal domain models (e.g. [Value Flows](https://valueflo.ws))
+- cultivate interoperable protocols (e.g. [Value Flows](https://valueflo.ws))
 
 ## Members
 
