@@ -18,9 +18,17 @@ Our buffer target is 3 months worth of our collective renumeration. To break thi
  These levels are used as event control points. 
 
 ###Buffer events
-Moving up or down the scale is seen as an event which will hae corresponding side effects.
+Moving up or down the scale is seen as an event which will have side effects. Side effects may be defined in other agreements and/or commitments. Buffer tranistions should be recorded in a commitment detailing the side-effects in a migration style format. Side-effects should have links to any pertaining information.
 
-####No buffer
+```markdown
+###Buffer
+
+####Up
+- [side effects that occur when to a level 2 buffer](www.link.to.it).
+
+####Down
+- [side effects that occur when moving down to no buffer](www.link.to.it).
+```
 
 ###Buffer as control lever
 
