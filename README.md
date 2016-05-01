@@ -1,6 +1,5 @@
 # Enspiral Root Systems
 
-# Root Systems Handbook!
 [![GitBook](https://sm3lir.cloudimage.io/s/width/34/https://www.gitbook.com/assets/images/logo/128.png?v=9.0.4)](https://enspiral-root-systems.gitbooks.io/handbook/content/)
 
 [![Stories in Ready](https://badge.waffle.io/enspiral-root-systems/handbook.svg?label=ready&title=Ready)](https://waffle.io/enspiral-root-systems/meta)
