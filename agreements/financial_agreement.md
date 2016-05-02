@@ -68,7 +68,7 @@ Eating together
 The base renumeration is a fixed sum that all members recieve. It can go up as buffer levels are developed. It has the second highest priority.
 
 ###Income share
-An income share can be agreed to be given to an individual member as a means of topping up their base income. The income share is typically 20% of the billable rate multiplied by the hours worked - unless agreed otherwise. An income share can also be agreed internally between members by unanamous agreement.
+An income share can be agreed to be given to an individual member as a means of topping up their base income. The income share is between 0-20% (buffer level dependant) of the billable rate multiplied by the hours worked - unless agreed otherwise. An income share can also be agreed internally between members by unanamous agreement.
 
 ###Contribution to the common
 Contribution to the common is done as a percentage of total revenue of the pod/manth. Unless agreed otherwise this is a scaling amount of between 0-20% depending on the buffer level.
