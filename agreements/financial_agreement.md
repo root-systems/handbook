@@ -34,7 +34,6 @@ Moving up or down the scale is seen as an event which will have side effects. Si
 ###Buffer as control lever (Whats the point of all this?)
 By coupling several factors to buffer events we can create a self regulating system. The intent is that as the buffer increases so to does the money flowing away from the pod. These are the scaling money out flows and do not incude fixed costs such as space hire and saas tools.
 
-
 ##Income
 The pods funds come from the following sources:
 
@@ -52,6 +51,9 @@ Typically a days work these are tools we use to deepen our and the clients under
 
 ###Retainers/Maintanance Agreements
 A fixed monthly sum paying for us to update, refactor and slowly develop the code base.
+
+###Saas
+We get paid a subscription for a hosted service we provide.
 
 ##Expenses
 Money flowing away from the pod happens as follows
