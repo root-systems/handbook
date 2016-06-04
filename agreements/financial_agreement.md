@@ -33,7 +33,7 @@ The number of hours a member was billable in a month.
 
 ---
 
-###Buffer events
+###Buffer events (WIP)
 Moving up or down the scale is seen as an event which will have side effects. Side effects may be defined in other agreements and/or commitments. Buffer transitions should be recorded in a commitment detailing the side-effects in a migration style format. Side-effects should have links to any pertaining information. eg:
 
 ```markdown
