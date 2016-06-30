@@ -1,4 +1,4 @@
-# How we run a project form start to finish
+# How we run a project form start to finish - WIP
 
 ## Intro
 We've created these processes to solve some of problems we have experienced as a team when working on projects together. It's recommended that you start a project using these processes as a starting point and alter them to fit your team.
@@ -30,6 +30,9 @@ Setting up a rhythm at the beginning of the project is key to keep the momentum 
 
 ### Checklist before development starts on any type of projects
 Most of these items should be done during Sprint Planning. User stories should be created before this meeting and this meeting should be working out the weighting of each ticket and getting team members up to speed with everything.
+
+TODO: A guide on how to run sprint planning
+
 - [ ] Scope is agreed on and signed off with client
 - [ ] User stories are created into tickets (online or physical)
 - [ ] Tickets are weighted
@@ -40,11 +43,17 @@ Most of these items should be done during Sprint Planning. User stories should b
 - [ ] Definition of 'done' created for a ticket
 
 ## During development
+
+TODO: A guide on how to do standups
+
 - Daily standups. Ideally, same time every day
 - Ideally have a stand up with the product owner/client daily or as often as possible. This standup does not have to be with the whole dev team and can be just the project manager and client. This standup is mainly to get over blockers quickly and to keep the client in the loop.
 - Having an external scrum master that's ideally a developer/technically minded.
 
 ## End of development
+
+TODO: A guide on how to run a retro
+
  - [ ] Hand over code and backlog of bugs
  - [ ] Retro
  - [ ] Sign off from client
