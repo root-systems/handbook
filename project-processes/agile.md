@@ -34,7 +34,7 @@ Most of these items should be done during Sprint Planning. User stories should b
 TODO: A guide on how to run sprint planning
 
 - [ ] Scope is agreed on and signed off with client
-- [ ] User stories are created into tickets (online or physical)
+- [ ] [User stories](http://www.mountaingoatsoftware.com/agile/user-stories) are created into tickets (online or physical)
 - [ ] Tickets are weighted
 - [ ] Tickets are prioritised, ideally by client
 - [ ] Tickets have blockers if more info is needed
@@ -52,8 +52,6 @@ TODO: A guide on how to do standups
 
 ## End of development
 
-TODO: A guide on how to run a retro
-
  - [ ] Hand over code and backlog of bugs
- - [ ] Retro
+ - [ ] [Retro](http://retrospectivewiki.org/index.php?title=Retrospective_Plans)
  - [ ] Sign off from client
