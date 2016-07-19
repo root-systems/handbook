@@ -29,12 +29,10 @@ Setting up a rhythm at the beginning of the project is key to keep the momentum 
 - [ ] We know the deployment process and ideally have deployed a small change
 
 ### Checklist before development starts on any type of projects
-Most of these items should be done during Sprint Planning. User stories should be created before this meeting and this meeting should be working out the weighting of each ticket and getting team members up to speed with everything.
-
-TODO: A guide on how to run sprint planning
+Most of these items should be done during [Sprint Planning](http://www.mountaingoatsoftware.com/agile/scrum/sprint-planning-meeting). [User stories](http://www.mountaingoatsoftware.com/agile/user-stories) should be created before this meeting and this meeting should be working out the weighting of each ticket and getting team members up to speed with everything.
 
 - [ ] Scope is agreed on and signed off with client
-- [ ] [User stories](http://www.mountaingoatsoftware.com/agile/user-stories) are created into tickets (online or physical)
+- [ ] User stories are created into tickets (online or physical)
 - [ ] Tickets are weighted
 - [ ] Tickets are prioritised, ideally by client
 - [ ] Tickets have blockers if more info is needed
