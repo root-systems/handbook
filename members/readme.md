@@ -1,3 +1,8 @@
 # Members
 
-[INTERNAL: Member Profiles](https://docs.google.com/document/d/1YuOyFLri5hi9-pUgkbjYXoK6ad4fueU6RNXeGVB-C8o/edit#): *In the document we cover our individual needs, wants, strengths and weaknesses. Because this is personal information we have chosen to make this doc internal.*
+- [Dan Lewis](https://github.com/agentlewis)
+- [Iain Kirkpatrick](https://github.com/iainkirkpatrick/)
+- [Michael Smith](https://github.com/NotThatSmith)
+- [Mikey Williams](https://github.com/ahdinosaur)
+- [Sarah Rogers](https://github.com/sarah-arrrgh)
+- [Greg Kan](https://github.com/gregorykan) (_provisional_)

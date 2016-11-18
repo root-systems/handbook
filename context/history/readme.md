@@ -17,7 +17,7 @@ Once it became clear the swarm way of working was failing, with a gap in work du
 
 After our initial workshop, we planted our name "Root Systems" and created private channels to communicate.
 
-In this next period, with tight membership and a clear purpose, Daniel Lewis led the coordination of our business. Damian Sligo-Green partnered with us to nurture client relationships. Michael Smith and Daniel drafted [our financial model](https://medium.com/enspiral-tales/a-new-financial-model-for-consulting-c7781661a1ec). We continued to have a swarm of contributors around us doing contracting within the same space, which allowed us to pursue more contracts and support more humans, but we kept expectations such that we could not guarantee anything for loose contributors.
+In this next period, with tight membership and a clear purpose, Daniel Lewis led the coordination of our business. Damian Sligo-Green partnered with us to nurture client relationships. Michael Smith and Daniel drafted [our financial model](https://medium.com/enspiral-tales/a-new-financial-model-for-consulting-c7781661a1ec). We began our rhythm of meeting every week over lunch to check-in and have face-to-face time. We continued to have a swarm of contributors around us doing contracting within the same space, which allowed us to pursue more contracts and support more humans, but we kept expectations such that we could not guarantee anything for loose contributors.
 
 We had our first retreat in September 2016, where we mostly hung out and ate delicious food.
 
