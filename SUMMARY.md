@@ -10,5 +10,6 @@
   * [Financial Agreement](agreements/financial_agreement.md)
 * [Processes](processes/readme.md)
   * [Agile](processes/agile.md)
+  * [Invoicing Clients](processes/invoicing_clients.md)
 * [Guides](guides/readme.md)
   * [Enspiral Ops](guides/enspiral_ops.md)
