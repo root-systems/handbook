@@ -10,3 +10,5 @@
   * [Financial Agreement](agreements/financial_agreement.md)
 * [Processes](processes/readme.md)
   * [Agile](processes/agile.md)
+* [Guides](guides/readme.md)
+  * [Enspiral Ops](guides/enspiral_ops.md)
