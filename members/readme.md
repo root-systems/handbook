@@ -5,4 +5,4 @@
 - [Michael Smith](https://github.com/NotThatSmith)
 - [Mikey Williams](https://github.com/ahdinosaur)
 - [Sarah Rogers](https://github.com/sarah-arrrgh)
-- [Greg Kan](https://github.com/gregorykan) (_provisional_)
+- [Greg Kan](https://github.com/gregorykan)
