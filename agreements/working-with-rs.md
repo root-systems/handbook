@@ -13,7 +13,7 @@ It also covers the cost of finding contracts. We can spend a lot of unpaid time 
 
 You are expected to send an invoice to Root Systems Limited at the first working day of every month.
 
-Please send your invoices to rsaccounts@enspiral.com and cc in a Root Systems member (feel free to cc michael.smith@enspiral.com if no one comes to mind)
+Please send your invoices to rsaccounts@enspiral.com and cc in root-systems-coordinators@enspiral.com
 
 Invoices will be paid by the 20th of every month.
 
