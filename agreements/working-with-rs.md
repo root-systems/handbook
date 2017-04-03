@@ -17,6 +17,10 @@ Please send your invoices to rsaccounts@enspiral.com and cc in root-systems-coor
 
 Invoices will be paid by the 20th of every month.
 
+## Time Tracking
+
+We recommend using [Toggl](https://toggl.com). Please ask a Root Systems member to be invited to our Toggl team.
+
 ## Expenses
 
 If you have any expenses that need claimed, include this in your monthly invoice along with the related receipts.
