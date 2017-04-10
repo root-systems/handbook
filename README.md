@@ -4,6 +4,8 @@
 
 We're a small high-trust livelihood pod doing tech consulting within [Enspiral](http://enspiral.com).
 
+Want to work with us? Get in touch - <a href="mailto:root-systems@enspiral.com">root-systems@enspiral.com</a>
+
 {% youtube %}https://www.youtube.com/watch?v=Zo9TOSxnY2I{% endyoutube %}
 
 _VIDEO: Root Systems co-founder Dan describing our journey so far and how we use the advice process ([video](https://www.youtube.com/watch?v=Zo9TOSxnY2I) [slides](https://docs.google.com/presentation/d/1BaKj_W_ZyZqbFZqU8v31DFGkQYfaomD7-5H8D-ECh-0/edit#slide=id.g1822dad70a_0_224))_
