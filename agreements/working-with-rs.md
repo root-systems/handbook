@@ -13,6 +13,8 @@ It also covers the cost of finding contracts. We can spend a lot of unpaid time 
 
 You are expected to send an invoice to Root Systems Limited at the first working day of every month.
 
+Invoices are to be dated as last day of the month worked. E.g if you're invoicing for the month of May, make sure the invoice is dated 31 May.
+
 Please send your invoices to rsaccounts@enspiral.com and cc in root-systems-coordinators@enspiral.com
 
 Invoices will be paid by the 20th of every month.
