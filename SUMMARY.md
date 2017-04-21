@@ -16,3 +16,7 @@
 * [Roles](roles/readme.md)
 * [Guides](guides/readme.md)
   * [Enspiral Ops](guides/enspiral_ops.md)
+  * [Blogging](/blogging/blogging.md)
+
+
+
