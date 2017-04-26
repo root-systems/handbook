@@ -16,7 +16,7 @@ Each project must be a separate line item on the invoice. E.g:
 
 ```
 Enspiral Academy, 4% of $2000 development time, $80
-Espiral Accounting, 4% of $6000 development time, $240
+Enspiral Accounting, 4% of $6000 development time, $240
 ```
 
 This will be paid to Golden Pandas on a project by project basis once Root Systems has been paid by the client.
