@@ -4,6 +4,7 @@
 * [Context](context/readme.md)
   * [History](context/history/readme.md)
   * [Vision](context/vision.md)
+  * [Theory of Change](context/theory-of-change.md)
   * [Rhythm](context/rhythm.md)
 * [Members](members/readme.md)
 * [Agreements](agreements/readme.md)
