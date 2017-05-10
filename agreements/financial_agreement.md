@@ -1,1 +1,1 @@
-{% include "git+https://github.com/enspiral-root-systems/agreement-financial/blob/850c61e9ed6d01d6b4ea36371674239c1b5302da/README.md %}
+{% include "git+https://github.com/enspiral-root-systems/agreement-financial.git/README.md#850c61e9ed6d01d6b4ea36371674239c1b5302da" %}
