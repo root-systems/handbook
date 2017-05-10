@@ -10,7 +10,7 @@ Iain is based in Wellington. He is interested in basketball.
 
 ### [Michael Smith](https://github.com/NotThatSmith)
 
-Michael is a developer based in Berlin. He is interested in the potential for technology to aid and augment mental health and wellbeing.
+Michael is a developer based in Europe . He is interested in the potential for technology to aid and augment mental health and wellbeing.
 
 ### [Mikey Williams](https://github.com/ahdinosaur)
 
