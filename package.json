@@ -3,7 +3,9 @@
     "install": "gitbook install",
     "start": "gitbook serve"
   },
-  "devDependencies": {
-    "gitbook-cli": "^2.3.0"
+  "dependencies": {
+    "gitbook-cli": "^2.3.0",
+    "gitbook-plugin-anchors": "^0.7.1",
+    "gitbook-plugin-youtube": "^2.0.0"
   }
 }
