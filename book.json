@@ -1,7 +1,7 @@
-{  
   "styles": {
     "website": "styles/website.css"
   },
+  "gitbook": "^3.0.0",
   "plugins": [
     "collapsible-menu",
     "youtube",
