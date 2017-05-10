@@ -1,11 +1,13 @@
 # Summary
 
 * [Introduction](README.md)
+* [Contact](contact/readme.md)
 * [Context](context/readme.md)
   * [History](context/history/readme.md)
   * [Vision](context/vision.md)
   * [Ecosystem](context/ecosystem.md)
   * [Rhythm](context/rhythm.md)
+  * [Ecosystem](context/ecosystem.md)
 * [Members](members/readme.md)
 * [Agreements](agreements/readme.md)
   * [Financial](agreements/financial_agreement.md)
