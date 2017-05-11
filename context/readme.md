@@ -1,3 +1,8 @@
 ## Context
 
-A collection of our expieriences, culture, history and thoughts.
+A collection of our experiences, culture, history and thoughts.
+
+* [History](history/readme.md)
+* [Vision](vision.md)
+* [Rhythm](rhythm.md)
+* [Ecosystem](ecosystem.md)
