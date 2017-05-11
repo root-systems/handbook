@@ -14,7 +14,7 @@ Developing an ecosystem of pods will allow for far greater innovation while main
 
 To deal with the problems of coordination and communication we will need a clear Protocol that each pod needs to meet to be in the Ecosystem of Pods. This may involeve pod structure, comunications channels, cadences, reporting and required tools.
 
-At the moment Root Systems, Golden Pandas, Optize and Protoza are all pods working to establish the Alpha Protocol of an Ecosystem of Pods.
+At the moment Root Systems, Golden Pandas, Optimi and Protozoa are all pods working to establish the Alpha Protocol of an [Ecosystem](./ecosystem.md) of Pods.
 
 ## Software for Our Supply Network
 
