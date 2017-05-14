@@ -18,6 +18,7 @@
   * [Agile](processes/agile.md)
   * [Invoicing Clients](processes/invoicing_clients.md)
 * [Roles](roles/readme.md)
+  * [Coordinator and Director](roles/coordinator-director.md)
 * [Guides](guides/readme.md)
   * [Enspiral Ops](guides/enspiral_ops.md)
   * [Blogging](/blogging/blogging.md)
