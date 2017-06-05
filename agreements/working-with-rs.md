@@ -25,9 +25,9 @@ We recommend using [Toggl](https://toggl.com). Please ask a Root Systems member 
 
 ## Expenses
 
-If you have any expenses that need claimed, include this in your monthly invoice along with the related receipts.
+If you have any expenses that need claiming, include this in your monthly invoice along with the related receipts.
 
 ## Ongoing work
 
-Enjoy working with Root Systems and you'd like to work us more or become a member?
-We're still in the process of figuring out how we invite people into Root Systems, but please talk to your friendly Root Systems member :) 
+Do you enjoy working with Root Systems and would like to work with us more, or become a member?
+We're still in the process of figuring out how we invite people into Root Systems, but please feel free to contact anyone in the team about this :)

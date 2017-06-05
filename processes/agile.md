@@ -9,10 +9,10 @@ Most of the problems we've come across can be split into a few themes
 
 ### Information Transparency
 Making sure everyone in the team has access to the relevant information and knows where to find this information. Information such as user stories, contracts with the client around scoping and pricing, clients contact information, meeting notes with client, what tasks team members are working on.
-If this information is easily accessible by everyone then it creates less context holding with 1-2 core people and less disruptions and blockers for developers through the project.
+If this information is easily accessible by everyone then it creates less context-holding by 1-2 core people and less disruptions and blockers for developers through the project.
 
 ### Rhythm
-Setting up a rhythm at the beginning of the project is key to keep the momentum going throughout. Things like regular stand ups at the same time every day and regular contact with the client can have a big impact.
+Setting up a rhythm at the beginning of the project is key to keep the momentum going throughout. Things like regular stand-ups at the same time every day and regular contact with the client can have a big impact.
 
 ### Communication
 
@@ -42,10 +42,10 @@ Most of these items should be done during [Sprint Planning](http://www.mountaing
 
 ## During development
 
-TODO: A guide on how to do standups
+TODO: A guide on how to do stand-ups
 
-- Daily standups. Ideally, same time every day
-- Ideally have a stand up with the product owner/client daily or as often as possible. This standup does not have to be with the whole dev team and can be just the project manager and client. This standup is mainly to get over blockers quickly and to keep the client in the loop.
+- Daily stand-ups. Ideally, same time every day
+- Ideally have a stand-up with the product owner/client daily or as often as possible. This stand-up does not have to be with the whole dev team and can be just the project manager and client. This standup is mainly to get over blockers quickly and to keep the client in the loop.
 - Having an external scrum master that's ideally a developer/technically minded.
 
 ## End of development
