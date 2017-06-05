@@ -7,5 +7,8 @@
     "collapsible-menu",
     "youtube",
     "anchors"
-  ]
+  ],
+  "variables": {
+    "org": "Root Systems"
+  }
 }
