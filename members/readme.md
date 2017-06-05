@@ -22,4 +22,4 @@ Sarah enjoys space. Everything is mostly space. Sarah enjoys mostly everything.
 
 ### [Greg Kan](https://github.com/gregorykan)
 
-Greg is a developer and poet based in Wellington.
+Greg is a developer and poet based in Wellington. His writing has featured in various journals, catalogues and anthologies. His first book was nominated for the Kathleen Grattan Poetry Award, as well as the Ockham New Zealand Book Awards. He sees both programming and poetry as contributing to an essential question - how does language create and organize worlds?
