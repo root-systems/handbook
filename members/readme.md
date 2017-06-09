@@ -6,11 +6,11 @@ Dan loves to learn and fix things. Tinkering and evolving a plan to deal with a 
 
 ### [Iain Kirkpatrick](https://github.com/iainkirkpatrick/)
 
-Iain is based in Wellington. He is interested in basketball.
+Iain is based in Wellington. He is interested in basketball and archaeology in Upper Mesopotamia, specifically tell sites, formed from the accumulated remains of people living on the same site for hundreds or thousands of years. Excavating a tell can reveal buried structures such as government or military buildings, religious shrines and homes, located at different depths depending on their date of use.
 
 ### [Michael Smith](https://github.com/NotThatSmith)
 
-Michael is a developer based in Europe . He is interested in the potential for technology to aid and augment mental health and wellbeing.
+Michael is a developer based in Europe. He is interested in the potential for technology to aid and augment mental health and wellbeing. He is also a well-known producer of diamond knives for medical and scientific applications.
 
 ### [Mikey Williams](https://github.com/ahdinosaur)
 
@@ -18,8 +18,8 @@ Mikey is an { artist , developer , teacher } working in [Enspiral](https://enspi
 
 ### [Sarah Rogers](https://github.com/sarah-arrrgh)
 
-Sarah enjoys space. Everything is mostly space. Sarah enjoys mostly everything.
+Sarah is a Wellington-based human whose life experience to date includes coding, starting a local food buying group, and growing another, smaller human inside her belly. Sarah appreciates woollen crochet blankets, the night sky, and hot lemon, honey & ginger drinks (made from scratch, not syrup). Sometimes she snuggles up with her 8yo daughter under a crochet blanket with a hot toddy under the stars, and has a really excellent time.
 
 ### [Greg Kan](https://github.com/gregorykan)
 
-Greg is a developer and poet based in Wellington. His writing has featured in various journals, catalogues and anthologies. His first book was nominated for the Kathleen Grattan Poetry Award, as well as the Ockham New Zealand Book Awards. He sees both programming and poetry as contributing to an essential question - how does language create and organize worlds?
+Greg is a developer and poet based in Wellington. His writing has featured in various journals, catalogues and anthologies. His first book, published in 2015, was nominated for the Kathleen Grattan Poetry Award, as well as the Ockham New Zealand Book Award for Best Poetry. He sees both programming and poetry as contributing to an essential question - how does language create and organize worlds?
