@@ -28,7 +28,7 @@
 
 .img-left{
   float: left;
-  margin-right: 1em;
+  margin-right:150px 1em;
   clear: both;
 }
 
@@ -38,10 +38,13 @@
   clear: both;
 }
 
+.img-150px{ width: 150px; }
 .img-200px{ width: 200px; }
 .img-250px{ width: 250px; }
 .img-300px{ width: 300px; }
 .img-50pc{ width: 50%; }
+
+.img-round{ border-radius: 50%}
 
 hr{clear: both;}
 
