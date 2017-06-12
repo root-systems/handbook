@@ -27,7 +27,7 @@ We practice continuous improvement in our work. Practically, we invest in the to
 ### Core
 
 - [`dogstack`](https://dogstack.js.org/), a popular-choice framework for production web apps with plugins:
-  - [`dogstack agents`](https://github.com/dogstack/dogstack-agents), provides core user functionality
+  - [`dogstack-agents`](https://github.com/dogstack/dogstack-agents), provides core user functionality
 
 ### Experimental
 

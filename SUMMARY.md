@@ -1,8 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
-* [What We Do](what-we-do/readme.md)
-* [Media and Publications](media/readme.md)
+* [What We Do](context/what-we-do.md)
 * [History](context/history/readme.md)
 * [Vision](context/vision.md)
 * [Plan](context/plan.md)
@@ -10,6 +9,7 @@
 * [Ecosystem](context/ecosystem.md)
 * [Products](products/readme.md)
 * [Members](members/readme.md)
+* [Media and Publications](media/readme.md)
 * [Internal Agreements](agreements/internal.md)
   * [Financial](agreements/financial_agreement.md)
   * [Diversity](agreements/diversity-agreement.md)
