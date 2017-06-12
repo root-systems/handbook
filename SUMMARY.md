@@ -1,7 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
-* [Media and Publications](media/readme.md)
+* [Media](media/readme.md)
 * [Context](context/readme.md)
   * [History](context/history/readme.md)
   * [Vision](context/vision.md)
