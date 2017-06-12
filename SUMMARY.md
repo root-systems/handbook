@@ -1,7 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
-* [Contact Us](mailto:hello@rootsystems.nz)
+* [What We Do](what-we-do/readme.md)
 * [Media and Publications](media/readme.md)
 * [History](context/history/readme.md)
 * [Vision](context/vision.md)
@@ -26,3 +26,4 @@
   * [Enspiral Ops](guides/enspiral_ops.md)
   * [Blogging](guides/blogging.md)
 * [Glossary](GLOSSARY.md)
+* [Contact Us](mailto:hello@rootsystems.nz)
