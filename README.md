@@ -16,7 +16,7 @@ Want to work with us? Get in touch - <a href="mailto:hello@rootsystems.nz">hello
 ## Contents
 
 * [Introduction](README.md)
-* [Media and Publications](media/readme.md)
+* [What We Do](context/what-we-do.md)
 * [History](context/history/readme.md)
 * [Vision](context/vision.md)
 * [Plan](context/plan.md)
@@ -24,6 +24,7 @@ Want to work with us? Get in touch - <a href="mailto:hello@rootsystems.nz">hello
 * [Ecosystem](context/ecosystem.md)
 * [Products](products/readme.md)
 * [Members](members/readme.md)
+* [Media and Publications](media/readme.md)
 * [Internal Agreements](agreements/internal.md)
 * [Service-Level Agreements](agreements/service-level.md)
 * [Processes](processes/readme.md)
