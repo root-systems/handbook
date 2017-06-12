@@ -15,15 +15,21 @@ Want to work with us? Get in touch - <a href="mailto:hello@rootsystems.nz">hello
 
 ## Contents
 
+* [Introduction](README.md)
 * [Media and Publications](media/readme.md)
-* [Context](context/readme.md)
+* [History](context/history/readme.md)
+* [Vision](context/vision.md)
+* [Plan](context/plan.md)
+* [Rhythm](context/rhythm.md)
+* [Ecosystem](context/ecosystem.md)
 * [Products](products/readme.md)
-* [Ecosystem](ecosystem/readme.md)
 * [Members](members/readme.md)
-* [Agreements](agreements/readme.md)
+* [Internal Agreements](agreements/internal.md)
+* [Service-Level Agreements](agreements/service-level.md)
 * [Processes](processes/readme.md)
 * [Roles](roles/readme.md)
 * [Guides](guides/readme.md)
+* [Glossary](GLOSSARY.md)
 
 If you find this handbook helpful in your work, please [let us know](https://github.com/enspiral-root-systems/meta/issues/new). We'd love to hear from you. 🐌
 
