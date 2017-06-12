@@ -33,7 +33,7 @@ Want to work with us? Get in touch - <a href="mailto:hello@rootsystems.nz">hello
 
 If you find this handbook helpful in your work, please [let us know](https://github.com/enspiral-root-systems/meta/issues/new). We'd love to hear from you. 🐌
 
-You can download the handbook in different formats from [Gitbook](https://www.gitbook.com/book/enspiral-root-systems/meta/details).
+You can download the handbook in different formats from [Gitbook](https://www.gitbook.com/book/enspiral-root-systems/handbook/details).
 
 This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 Unported License](http://creativecommons.org/licenses/by-sa/4.0/).
 
