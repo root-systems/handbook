@@ -23,7 +23,5 @@
   * [Coordinator and Director](roles/coordinator-director.md)
 * [Guides](guides/readme.md)
   * [Enspiral Ops](guides/enspiral_ops.md)
-  * [Blogging](/blogging/guide.md)
-* [Glossary](glossary.md)
-
-
+  * [Blogging](guides/blogging.md)
+* [Glossary](GLOSSARY.md)
