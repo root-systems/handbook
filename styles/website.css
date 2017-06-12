@@ -1,3 +1,13 @@
+/* OVERRIDES */
+.markdown-section{
+  font-size: 1.7rem;
+  line-height: 1.5;
+}
+
+.markdown-section blockquote{
+  color: auto;
+}
+
 /* VIDEO */
 
 .video-wrapper {
@@ -12,4 +22,52 @@
   left: 0;
   width: 100%;
   height: 100%;
+}
+
+/* IMAGES */
+
+.img-left{
+  float: left;
+  margin-right: 1em;
+  clear: both;
+}
+
+.img-right{
+  float: right;
+  margin-left: 1em;
+  clear: both;
+}
+
+.img-200px{ width: 200px; }
+.img-250px{ width: 250px; }
+.img-300px{ width: 300px; }
+.img-50pc{ width: 50%; }
+
+hr{clear: both;}
+
+.mobile-visible{
+  display: none;
+}
+.mobile-hidden{
+  display: inherit;
+}
+
+/*
+  These rules only apply to screens less than 600px wide.
+  They override rules placed earlier in this file.
+*/
+@media only screen and (max-width: 600px) {
+  .img-50pc, .img-250px, .img-300px, .img-500px{
+    width: 100%;
+  }
+  .img-left, .img-right{
+    clear: both;
+    float: none;
+  }
+  .mobile-visible{
+    display: inherit;
+  }
+  .mobile-hidden{
+    display: none;
+  }
 }
