@@ -1,6 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
+* [Contact Us](mailto:hello@rootsystems.nz)
 * [Media and Publications](media/readme.md)
 * [History](context/history/readme.md)
 * [Vision](context/vision.md)
