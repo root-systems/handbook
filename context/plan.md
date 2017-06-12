@@ -31,3 +31,6 @@ Our intervention is to develop a protocol to standardise the data shape to share
 This will lead to a transparent supply network, where anyone may start supplying and be informed of what the market demands.
 
 We will end up with a supply network that is more sustainably human, and less a cold and indifferent machine.
+
+
+- Cultivate ecosystems of interoperable life-support products, [platforms](http://platformcoop.net/), and protocols (e.g. [Open App Ecosystem](https://github.com/open-app/core) -> [Collaborative Technology Alliance](https://medium.com/enspiral-tales/doing-more-together-together-seeding-a-collaborative-technology-alliance-82243ea30d41), [Secure Scuttlebutt Consortium](https://www.scuttlebutt.nz), [Value Flows](https://valueflo.ws))

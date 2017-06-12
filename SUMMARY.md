@@ -1,13 +1,14 @@
 # Summary
 
 * [Introduction](README.md)
-* [Contact](contact/readme.md)
+* [Media and Publications](media/readme.md)
 * [Context](context/readme.md)
   * [History](context/history/readme.md)
   * [Vision](context/vision.md)
   * [Plan](context/plan.md)
   * [Rhythm](context/rhythm.md)
   * [Ecosystem](context/ecosystem.md)
+* [Products](products/readme.md)
 * [Members](members/readme.md)
 * [Agreements](agreements/readme.md)
   * [Financial](agreements/financial_agreement.md)
@@ -21,7 +22,7 @@
   * [Coordinator and Director](roles/coordinator-director.md)
 * [Guides](guides/readme.md)
   * [Enspiral Ops](guides/enspiral_ops.md)
-  * [Blogging](/blogging/blogging.md)
-
+  * [Blogging](/blogging/guide.md)
+* [Glossary](glossary.md)
 
 

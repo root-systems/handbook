@@ -17,3 +17,14 @@
 ## Networks
 
 - [Enspiral](https://enspiral.com/)
+
+## Platforms
+
+- [platforms](http://platformcoop.net/)
+
+## Protocols
+
+- [Secure Scuttlebutt Consortium](https://www.scuttlebutt.nz)
+- [Value Flows](https://valueflo.ws))
+- [Open App Ecosystem](https://github.com/open-app/core)
+- [Collaborative Technology Alliance](https://medium.com/enspiral-tales/doing-more-together-together-seeding-a-collaborative-technology-alliance-82243ea30d41)
