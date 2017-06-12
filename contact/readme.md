@@ -1,3 +1,3 @@
 # Contact Us
 
-Get in touch - <a href="mailto:root-systems@enspiral.com">root-systems@enspiral.com</a>
+Get in touch - <a href="mailto:hello@rootsystems.nz">hello@rootsystems.nz</a>

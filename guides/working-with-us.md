@@ -1,6 +1,6 @@
 # Working With Us
 
-Our approach to building great software is centered around design thinking and agile rhythms.s
+Our approach to building great software is centered around design thinking and agile rhythms.
 
 Here's an example of our _ideal_ external consulting contract:
 
