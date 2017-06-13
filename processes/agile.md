@@ -5,11 +5,11 @@ We've created these processes to solve some of problems we have experienced as a
 
 This is a guide, not a rule book. Just like everything we do, if it's not working for your team, change what you're doing.
 
-Most of the problems we've come across can be split into a few themes
+Most of the problems we've come across can be split into a few themes:
 
 ### Information Transparency
 Making sure everyone in the team has access to the relevant information and knows where to find this information. Information such as user stories, contracts with the client around scoping and pricing, clients contact information, meeting notes with client, what tasks team members are working on.
-If this information is easily accessible by everyone then it creates less context-holding by 1-2 core people and less disruptions and blockers for developers through the project.
+If this information is easily accessible by everyone then it creates less context-holding by 1-2 core people (centralized dependencies) and less disruptions and blockers for developers through the project.
 
 ### Rhythm
 Setting up a rhythm at the beginning of the project is key to keep the momentum going throughout. Things like regular stand-ups at the same time every day and regular contact with the client can have a big impact.
@@ -26,7 +26,7 @@ Setting up a rhythm at the beginning of the project is key to keep the momentum 
 - [ ] We've received all source code
 - [ ] We have access to Staging and Production environments
 - [ ] We have a local development environment set up
-- [ ] We know the deployment process and ideally have deployed a small change
+- [ ] We know the deployment process and ideally have deployed a small change to test/verify it
 
 ### Checklist before development starts on any type of projects
 Most of these items should be done during [Sprint Planning](http://www.mountaingoatsoftware.com/agile/scrum/sprint-planning-meeting). [User stories](http://www.mountaingoatsoftware.com/agile/user-stories) should be created before this meeting and this meeting should be working out the weighting of each ticket and getting team members up to speed with everything.
@@ -36,7 +36,7 @@ Most of these items should be done during [Sprint Planning](http://www.mountaing
 - [ ] Tickets are weighted
 - [ ] Tickets are prioritised, ideally by client
 - [ ] Tickets have blockers if more info is needed
-- [ ] Definition of weighting created for a ticket (What's a 1)
+- [ ] Definition of weighting created for a ticket (What's a '1'?)
 - [ ] Definition of 'ready' created for a ticket
 - [ ] Definition of 'done' created for a ticket
 

@@ -7,7 +7,7 @@
 
 ## Check-in
 
-Every week we meet over lunch to check-in about our current happenings.
+Every week we meet over lunch to check-in about our current happenings - mental states, personal events, lives in general.
 
 This is a safe space for us to share what's up with each other. What you say here, stays here.
 

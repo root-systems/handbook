@@ -4,7 +4,7 @@
 
 We wish to work on what we want to work on and don't do what we don't want to do.
 
-By sharing our value together, we hope to connect our wants and offers with those around us for explicit interdependence.
+By sharing our values, we hope to connect our wants and offers with those around us for explicit interdependence.
 
 ## Always be learning and teaching
 

@@ -2,8 +2,8 @@
 
 ## Pay
 
-* Contractor receives 65% of charge out rate to client
-* Root Systems receives 35% of charge out rate
+* Contractor receives 65% of charge-out rate to client
+* Root Systems receives 35% of charge-out rate
 
 The 35% Root Systems receives is to cover the risk involved with taking on a contract. Shit can happen and all legal responsibility is held by Root Systems.
 
