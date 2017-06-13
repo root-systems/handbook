@@ -7,3 +7,4 @@ Here's anything we've agreed upon as a group and documented:
 - [Buffer Agreement](./buffer-agreement.md)
 - [Activity Types Agreement](./activity-types.md)
 - [Coordination Agreement](./coordination-agreement.md)
+- [Decisions Agreement](./decisions-agreement.md)
