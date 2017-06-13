@@ -5,17 +5,16 @@
 Group buying directly from wholesalers eliminates supply chain waste in the retail sector & minimises packaging as items are bought in bulk.
 
 <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
-<link  href="http://cdnjs.cloudflare.com/ajax/libs/fotorama/4.6.4/fotorama.css" rel="stylesheet">
+<link  href="http://cdnjs.cloudflare.com/ajax/libs/fotorama/4.6.4/fotorama.css" rel="stylesheet" />
 <script src="http://cdnjs.cloudflare.com/ajax/libs/fotorama/4.6.4/fotorama.js"></script>
 <div class="fotorama">
-  <img src="https://d3gxp3iknbs7bs.cloudfront.net/media/770/a895f0ea-1e80-43cf-aa6c-04b34f7102aa.png" />
-  <img src="https://d3gxp3iknbs7bs.cloudfront.net/media/770/f13f5e60-b78f-48f3-b881-ec880625e1b7.png" />
-  <img src="https://d3gxp3iknbs7bs.cloudfront.net/media/770/e220b4e6-cea4-4d21-944c-4fc66c29bc37.png" />
-  <img src="https://d3gxp3iknbs7bs.cloudfront.net/media/770/8c1d4d44-373c-4bf0-9a92-65810dd3f887.jpg" />
-  <img src="https://d3gxp3iknbs7bs.cloudfront.net/media/770/74408be6-c680-49cf-a722-c2a2ea451a1a.jpg" />
-  <img src="https://d3gxp3iknbs7bs.cloudfront.net/media/770/b8e27e28-8932-4b42-a600-4a8fd7910f65.jpg" />
-  <img src="https://d3gxp3iknbs7bs.cloudfront.net/media/770/be4fe6e6-1d82-44f6-80ca-ab9e8d796754.jpg" />
-  <img src="https://d3gxp3iknbs7bs.cloudfront.net/media/770/fbe8e8de-f5bb-44c6-91bd-9b011e4e5b63.jpg" />
+  <img src="./ux-imac-still.png" />
+  <img src="./ux-imac-wireframe-dash.png" />
+  <img src="./ux-imac-wireframe-drygoods-dash.png" />
+  <img src="./petone-crates.jpg" />
+  <img src="./petone-buckets.jpg" />
+  <img src="./petone-packing.jpg" />
+  <img src="./petone-packing-3.jpg" />
 </div>
 
 <iframe allowfullscreen="" frameborder="0" height="360" src="//player.vimeo.com/video/186511821" width="640"></iframe>
@@ -80,21 +79,21 @@ Cobuy targets one part of the supply chain story, but successful co-ops have eff
 
 ## User Journeys
 
-![](https://challenges.openideo.com/uploads/contribution/25183/136abde6-dfc6-4072-8b99-f0c32c2a9097.gif)
+![](./ux-story.gif)
 
 ## User Research
 
 We hired a UX designer to interview both current co-op members and non co-op members around their views on co-ops, the process of buying as a group, and what was important to them about buying food.
 
-![Post-it noting](https://challenges.openideo.com/uploads/contribution/25183/86f54597-9083-4eeb-835e-b550e85fd59b.png)
+![Post-it noting](./ux-post-its.png)
 
 She synthesized the interview material down to key themes, giving us insight into why people buy through co-ops, and what matters to them.
 
-![UX research findings](https://challenges.openideo.com/uploads/contribution/25183/d6d35e40-3726-4418-a6d4-211878b79b2d.png)
+![UX research findings](./ux-what-matters.png)
 
 She gave us a number of ideas to explore as we continue design iterations on the app.
 
-![Image title](https://challenges.openideo.com/uploads/contribution/25183/ba0c46b1-8445-4483-91ef-5d152fd59df5.png)
+![Image title](./ux-ideas-bubbles.png)
 
 A key finding, for example, was that many users would want to use the app on mobile. We’ve since adjusted our design and development plans to be mobile-first.
 
@@ -153,26 +152,26 @@ One of our main observations when researching alternatives is that most other so
 
 ### Who needs to play a role in your idea in order to make it successful?
 
-#### Co-ops  
+#### Co-ops
 
-Existing co-ops are going to be the primary users in the medium term. Fostering relationships within the networks surrounding co-ops will be key.  
+Existing co-ops are going to be the primary users in the medium term. Fostering relationships within the networks surrounding co-ops will be key.
 
-#### Local government/community infrastructure  
+#### Local government/community infrastructure
 
 Co-ops benefit hugely from leveraging local infrastructure, locations that can act as drop off/collection points and as nodes of the communities that develop around them.
 
 ### How do you plan to measure the impact of your idea?
 
-#### Food Waste  
+#### Food Waste
 
-- The amount of food bought via Cobuy allows us to estimate the amount of food diverted from landfill  
-- No. of new co-ops forming over time gives an indication of food waste prevention  
+- The amount of food bought via Cobuy allows us to estimate the amount of food diverted from landfill
+- No. of new co-ops forming over time gives an indication of food waste prevention
 
-#### Social  
+#### Social
 
-- No. of co-ops using Cobuy lets us estimate time saved regarding co-op management  
-- No. of new co-ops forming over time is an indication of new local communities  
+- No. of co-ops using Cobuy lets us estimate time saved regarding co-op management
+- No. of new co-ops forming over time is an indication of new local communities
 
-#### Environmental  
+#### Environmental
 
 - No. of local suppliers co-ops are using is an indication of emissions prevented through local food networks
