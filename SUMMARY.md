@@ -24,7 +24,6 @@
   * [Director](roles/director.md)
 * [Guides](guides/readme.md)
   * [Scheduling](guides/scheduling.md)
-  * [Enspiral Ops](guides/enspiral_ops.md)
   * [Blogging](guides/blogging.md)
 * [Glossary](GLOSSARY.md)
 * [Contact Us](mailto:hello@rootsystems.nz)
