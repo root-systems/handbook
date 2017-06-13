@@ -1,3 +1,3 @@
 ## Products
 
-- [Cobuy](./cobuy/readme.md): buy quality for cheap together as a group
+- [Cobuy](./cobuy/readme.md): helping people buy good food, together.

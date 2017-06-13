@@ -1,6 +1,6 @@
 # [Cobuy](http://cobuy.nz)
 
-> Group buying software that helps people buy good food at good prices, together.
+> Group buying software that helps people buy good food, together.
 
 Group buying directly from wholesalers eliminates supply chain waste in the retail sector & minimises packaging as items are bought in bulk.
 
