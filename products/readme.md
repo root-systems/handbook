@@ -1,3 +1,3 @@
 ## Products
 
-- [Cobuy](http://cobuy.nz): group wholesale purchases as a consumer co-op
+- [Cobuy](./cobuy/readme.md): helping people buy good food, together.
