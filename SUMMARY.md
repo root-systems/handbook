@@ -16,6 +16,7 @@
   * [Buffer](agreements/buffer-agreement.md)
 * [Service-Level Agreements](agreements/service-level.md)
   * [Golden Pandas](agreements/golden-pandas.md)
+  * [Optimi](agreements/optimi.md)
 * [Processes](processes/readme.md)
   * [Agile](processes/agile.md)
   * [Invoicing Clients](processes/invoicing_clients.md)
