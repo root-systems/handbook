@@ -16,4 +16,4 @@ This is time spent towards the administration of the business - typically work d
 
 ## Personal
 
-This is time allocated for the member to spend however they like, as long as it has some relevance / benefit to the activities of the company - for example, it might be experimenting with a new approach to systems architecture, building a demo app,
+This is time allocated for the member to spend however they like - this is the activity type a member is 'doing' when they are on leave, for example.
