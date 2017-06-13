@@ -13,6 +13,7 @@
 * [Internal Agreements](agreements/internal.md)
   * [Financial](agreements/financial_agreement.md)
   * [Diversity](agreements/diversity-agreement.md)
+  * [Buffer](agreements/buffer-agreement.md)
 * [Service-Level Agreements](agreements/service-level.md)
   * [Golden Pandas](agreements/golden-pandas.md)
 * [Processes](processes/readme.md)
