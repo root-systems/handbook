@@ -15,6 +15,8 @@
   * [Financial](agreements/financial_agreement.md)
   * [Diversity](agreements/diversity-agreement.md)
   * [Buffer](agreements/buffer-agreement.md)
+  * [Activity Types Agreement](agreements/activity-types.md)
+  * [Coordination Agreement](agreements/coordination-agreement.md)
 * [Service-Level Agreements](agreements/service-level.md)
   * [Golden Pandas](agreements/golden-pandas.md)
   * [Optimi](agreements/optimi.md)
