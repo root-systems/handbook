@@ -8,7 +8,7 @@
 * [Rhythm](context/rhythm.md)
 * [Ecosystem](context/ecosystem.md)
 * [Products](products/readme.md)
-  * [Cobuy](products/cobuy.md)
+  * [Cobuy](products/cobuy/readme.md)
 * [Members](members/readme.md)
 * [Media and Publications](media/readme.md)
 * [Internal Agreements](agreements/internal.md)
