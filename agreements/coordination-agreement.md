@@ -8,4 +8,4 @@ Root Systems members schedule their time two weeks in advance, based on the [Sch
 
 ## Daily Stand-up
 
-Members also meet at 10am each morning during the week for stand-up, a quick meeting during which everyone surfaces what they have been working on, what they will be working on, and any blocks they may be encountering.
+Members also meet at 10am each morning during the week for stand-up, a quick meeting during which everyone surfaces what they have been working on, what they will be working on, and any blocks they may be encountering. This can be done remotely via Slack if particular individuals are unable to be there in person.
