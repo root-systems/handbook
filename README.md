@@ -2,7 +2,7 @@
 
 <h1 style="text-align: center">Enspiral Root Systems</h1>
 
-We're a small high-trust livelihood pod doing tech consulting and software development within [Enspiral](http://enspiral.com).
+We're a small high-trust livelihood pod doing tech consulting and software development within the [Enspiral](http://enspiral.com) network in Wellington.
 Our purpose is to imagine and cultivate an [ecosystem](ecosystem/readme.md) of local, replicable, life-support systems for interdependent abundance.
 
 ## Our Handbook
