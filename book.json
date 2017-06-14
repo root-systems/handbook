@@ -8,8 +8,15 @@
   "plugins": [
     "collapsible-menu",
     "youtube",
-    "anchors"
+    "anchors",
+    "meta"
   ],
+  "pluginsConfig": {
+    "meta": {
+        "name": "description",
+        "content": "Enspiral Root Systems is a small high-trust livelihood pod doing tech consulting and software development within the Enspiral network in Wellington. Our purpose is to imagine and cultivate an ecosystem of local, replicable, life-support systems for interdependent abundance."
+    }
+  },
   "variables": {
     "org": "Root Systems"
   }
