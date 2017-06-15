@@ -2,7 +2,7 @@
 >
 > Things that worked:
 >
-> - We never had to negotiate. We all knew we were paid the same.
+> - We never had to negotiate. We all knew we were paid by the same calculation.
 > - When Greg joined all he had to do was read our agreement and say he agreed... that easy!
 > - Our pay went up and down based on how well our business was going.
 >
