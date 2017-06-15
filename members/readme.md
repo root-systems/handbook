@@ -4,7 +4,7 @@
 
 <img src="./dan.png" class="img-150px img-right img-round" alt="Dan Lewis"/>
 
-Dan loves to learn and fix things. Tinkering and evolving a plan to deal with a problem so as to create the most robust solution gives him immense satisfaction. In 2014 he attended Enspiral Dev Academy, leveling up as a developer. This built on the communication, project management and solution design theory he learned while studying Architecture and working as a disability healthcare provisioner. During the last decade he's travelled to many countries, lived in three, learnt Swedish and fell in love with the complexity and diversity of our world.
+Dan loves to learn and fix things. Tinkering and evolving a plan to deal with a problem so as to create the most robust solution gives him immense satisfaction. In 2014 he attended Enspiral Dev Academy, leveling up as a developer. This built on the communication, project management and solution design theory he learned while studying Architecture and working as a disability healthcare provisioner. During the last decade he's travelled to many countries, lived in three, learnt Swedish and fell in love with the complexity and diversity of our world. He is "famous" for saying Poppycock on nationaal tv - see whatnext.nz S01E03
 
 ### [Iain Kirkpatrick](https://github.com/iainkirkpatrick/)
 
