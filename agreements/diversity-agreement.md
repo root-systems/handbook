@@ -1,3 +1,3 @@
-{% include "git+https://github.com/enspiral-root-systems/enspiral-handbook.git/diversity_agreement.md#e30d85b614fc12d95d48fa8ed7258372cbf80522" %}
+{% include "git+https://github.com/enspiral/handbook.git/diversity_agreement.md#d289c00ade0b71f0a5fc3483037440ccbe9469b8" %}
 
 *[Living link to Enspiral agreement](https://handbook.enspiral.com/diversity_agreement.html)*
