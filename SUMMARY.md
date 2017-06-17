@@ -32,4 +32,6 @@
   * [Scheduling](guides/scheduling.md)
   * [Blogging](guides/blogging.md)
 * [Glossary](GLOSSARY.md)
+* [Archive](archive/readme.md)
+  * [Financial Agreement V01](archive/financial-agreement-v01.md)
 * [Contact Us](mailto:hello@rootsystems.nz)
