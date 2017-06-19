@@ -33,5 +33,5 @@
   * [Blogging](guides/blogging.md)
 * [Glossary](GLOSSARY.md)
 * [Archive](archive/readme.md)
-  * [Financial Agreement V01](archive/financial-agreement-v01.md)
+  * [Financial Agreement V01](archive/financial-agreement-1.0.0.md)
 * [Contact Us](mailto:hello@rootsystems.nz)
