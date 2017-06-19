@@ -20,4 +20,4 @@
 
 # Archived agreements
 
- - [Financial V01](archive/financial-agreement-v01.md)
+ - [Financial V01](archive/financial-agreement-1.0.0.md)
