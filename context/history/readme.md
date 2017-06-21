@@ -8,7 +8,7 @@ In order to bootstrap EDA during the early days, [Joshua Vial](http://joshuavial
 
 In this period, consulting was done as a swarm, similar to [Enspiral Craftworks](http://craftworks.enspiral.com), but with some [self-set salary](http://joshuavial.com/self-determined-salaries/) expectations for staff committed to EDA. While the swarm did loose coordination to wrangle contracts, at this time the group was overall unsuccessful and over time had more outgoing salary expenditures than incoming revenue. At this time it wasn't clear who was in and who was out (loose membership), nor what we were doing with ourselves other than contracting (lack of a shared purpose).
 
-Once it became clear the swarm way of working was failing, with a gap in work during April 2015, Dan proposed to those committed to consulting within EDA to spend two days per week focusing on the core of the group. We then organized two full days per week in the nearby "Loki Lounge" to do discovery workshops on our core purpose and strategy. The initial members who showed up to this were Dan Lewis, Mikey Williams, Iain Kirkpatrick, Michael Smith, and Sarah Rogers.
+Once it became clear the swarm way of working was failing, with a gap in work during April 2016, Dan proposed to those committed to consulting within EDA to spend two days per week focusing on the core of the group. We then organised two full days per week in the nearby "Loki Lounge" to do discovery workshops on our core purpose and strategy. The initial members who showed up to this were Dan Lewis, Mikey Williams, Iain Kirkpatrick, Michael Smith, and Sarah Rogers.
 
 ![whiteboard zero](./0.png)
 ![whiteboard one](./1.png)
@@ -19,7 +19,7 @@ After our initial workshop, we planted our name "Root Systems" and created priva
 
 In this next period, with tight membership and a clear purpose, Dan led the coordination of our business. Damian Sligo-Green partnered with us to nurture client relationships. Michael and Dan drafted [our financial model](https://medium.com/enspiral-tales/a-new-financial-model-for-consulting-c7781661a1ec). We began our rhythm of meeting every week over lunch to check-in and have face-to-face time. We continued to have a swarm of contributors around us doing contracting within the same space, which allowed us to pursue more contracts and support more humans, but we kept expectations such that we could not guarantee anything for loose contributors.
 
-From June - August 2016, Root Systems started doing business development for our first product Cobuy by participating in the Low Carbon Challenge.
+From June - August 2016, Root Systems started doing business development for our first product - Cobuy - by participating in the Low Carbon Challenge.
 
 TODO picture from Low Carbon Challenge
 
@@ -36,7 +36,7 @@ For our next few cycles of the moon, we
   - then start experimenting with our coordinator and director roles
 - many of us operating remote for a few months
 
-In early December 2016, we started a company: Root Systems Limited. 
+In early December 2016, we started a company: Root Systems Limited.
 
 During our southern hemisphere summer in 2017 (January - March), we
 
