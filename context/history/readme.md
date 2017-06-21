@@ -19,26 +19,27 @@ After our initial workshop, we planted our name "Root Systems" and created priva
 
 In this next period, with tight membership and a clear purpose, Dan led the coordination of our business. Damian Sligo-Green partnered with us to nurture client relationships. Michael and Dan drafted [our financial model](https://medium.com/enspiral-tales/a-new-financial-model-for-consulting-c7781661a1ec). We began our rhythm of meeting every week over lunch to check-in and have face-to-face time. We continued to have a swarm of contributors around us doing contracting within the same space, which allowed us to pursue more contracts and support more humans, but we kept expectations such that we could not guarantee anything for loose contributors.
 
-From June - August 2016, Root Systems started doing business development for our first product - Cobuy - by participating in the Low Carbon Challenge.
+From June - August 2016, Root Systems started doing business development for our first product - [Cobuy](../../products/cobuy/readme.html) - by participating in the Low Carbon Challenge.
 
-TODO picture from Low Carbon Challenge
+![2016-cobuy-lcc zero](2016-cobuy-lcc-00.jpg)
+![2016-cobuy-lcc one](2016-cobuy-lcc-01.jpg)
 
 We had our first retreat in September 2016, where we mostly hung out and ate delicious food.
 
 ![spring-2016-retreat zero](./spring-2016-retreat-0.jpg)
 ![spring-2016-retreat one](./spring-2016-retreat-1.jpg)
 
-For our next few cycles of the moon, we
+For our next few cycles of the moon, we:
 
-- [participate in the OpenIDEO challenge](https://challenges.openideo.com/challenge/food-waste/top-ideas/cobuy-group-buying-software-that-helps-people-buy-good-food-at-good-prices-together)
+- [participated in the OpenIDEO challenge](https://challenges.openideo.com/challenge/food-waste/top-ideas/cobuy-group-buying-software-that-helps-people-buy-good-food-at-good-prices-together)
 - had inter-personal conflict between two members, resolved with a radical non-verbal conflict resolution process involving hugs!
-- our primary coordinator burning out from doing all the things all the time
+- our primary coordinator burnt out from doing all the things all the time
   - then start experimenting with our coordinator and director roles
 - many of us operating remote for a few months
 
 In early December 2016, we started a company: Root Systems Limited.
 
-During our southern hemisphere summer in 2017 (January - March), we
+During our southern hemisphere summer in 2017 (January - March), we:
 
 - had our second retreat in Alexandra, [read about it here](https://viewer.scuttlebot.io/%25bIUaaGaez1Kq6wPcewpcKNEA78O6x5%2FI8QIriUVbI94%3D.sha256)!
 - Greg officially joined as a new member
