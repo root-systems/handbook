@@ -4,7 +4,7 @@ Root Systems believes in having agreed processes to coordinate as a group via co
 
 ## Coordination
 
-### Projects
+### Strategy
 
 Root Systems [Coordinators](../roles/coordinator.md) plan our long-term Internal and External coordination strategy:
 
@@ -13,7 +13,7 @@ Root Systems [Coordinators](../roles/coordinator.md) plan our long-term Internal
 
 If a Root Systems Member desires a change in project or role, they should direct the request to the Coordinators.
 
-### Scheduling Days
+### Scheduling
 
 Root Systems Members schedule their time two weeks in advance, based on the [Scheduling Guide](../guides/scheduling.md) and the various [Activity Types](./activity-types.md).
 
@@ -23,6 +23,8 @@ This schedule should include
 - what projects does a Member plan to work on those days.
 
 Members will update their schedule to reflect changes they make due to unforeseen circumstances. For example: getting sick.
+
+## Accountability
 
 ### Daily Stand-up
 
@@ -35,8 +37,6 @@ Members meet at 10am each morning during the week for stand-up, a quick meeting 
 - are you blocked by anything?
 
 This should be done remotely via Slack if Members are unable to be there in person.
-
-## Accountability
 
 ### Time Tracking
 
