@@ -6,21 +6,24 @@ Root Systems believes in having agreed processes to coordinate as a group via co
 
 ### Strategy
 
-Root Systems [Coordinators](../roles/coordinator.md) plan our long-term Internal and External coordination strategy:
+Root Systems [Coordinators](../roles/coordinator.md) plan our long-term Team coordination strategy:
 
-- who is working on what Internal or External project, and
+- who is working on what Team project, and
 - what role on each project is expected.
 
 If a Root Systems Member desires a change in project or role, they should direct the request to the Coordinators.
 
 ### Scheduling
 
-Root Systems Members schedule their time two weeks in advance, based on the [Scheduling Guide](../guides/scheduling.md) and the various [Activity Types](./activity-types.md).
+Root Systems Members schedule, based on the [Scheduling Guide](../guides/scheduling.md) and the various [Activity Types](./activity-types.md),
 
-This schedule should include
+- 3 months in advance their rough intent for days on Personal or Team.
+- 2 weeks in advance their clear plan for projects on Team days.
 
-- what days does a Member plan to work on Personal or Internal or External projects, and
-- what projects does a Member plan to work on those days.
+This scheduling should describe:
+
+- what days does a Member intend to be Personal or Team?
+- what projects does a Member plan to work on Team days?
 
 Members will update their schedule to reflect changes they make due to unforeseen circumstances. For example: getting sick.
 
@@ -40,4 +43,4 @@ This should be done remotely via Slack if Members are unable to be there in pers
 
 ### Time Tracking
 
-Members track time worked on any project, Personal or Internal or External.
+Members track time worked on any Team project.
