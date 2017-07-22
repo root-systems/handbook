@@ -10,7 +10,7 @@
 * two
 * three
 
-**Venture Description (200 words)**
+**Venture Description**
 
 Root Systems is a [livelihood pod](https://docs.google.com/document/d/1F7GYGf_5OBmjsAJxbVQfxjFVYy1AqD9yVRsL-9mOhfY/edit#) doing tech consulting and software development within the Enspiral network. Our purpose is to imagine and cultivate an ecosystem of local, replicable, life-support systems for interdependent abundance.
 
@@ -55,7 +55,7 @@ our [Vision](https://www.rootsystems.nz/context/vision.html) and [Plan](https://
 
 **Enspiral Foundation Contribution**
 
-- x NZD financial contribution per month
+- 100 NZD per person per month financial contribution
 - pod ecosystem coordination
 - open source organizing systems
 - open source coordination products
