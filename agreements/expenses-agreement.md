@@ -1,16 +1,16 @@
 # Expenses Agreement
 
-As a worker owned business Root Systems members all have the ability to claim expenses relating to the operation of the business. 
+As a worker-owned business Root Systems members all have the ability to claim expenses relating to the operation of the business. 
 
 ## This may include:
 
  - Technical equipment (laptops, keyboards, etc...)
  - Office equipment (coffee machine, chairs, desk, lights, etc...)
- - Office rent
+ - Office space rent
  - Retreats and Away days (travel, food and accomadation)
  - Event expenses (tickets, foods, etc...)
- - Every day business lunches (50% tax deductable for members, 100% for guests)**
- - Travel expenses (72c/km, hotels, flights, etc...)
+ - Every day business lunches (50% tax deductable for members, 100% for guests)
+ - Travel expenses (transport, hotels, flights, etc...)
  - Saas tools (google, toggl, loomio, xero, etc...)
  - Memberships (Enspiral)
 
@@ -18,20 +18,20 @@ As a worker owned business Root Systems members all have the ability to claim ex
 
 Expenses fall into two categories:
 
- - RS expense
- - RS Member expense
+ - Team expense
+ - Member expense
 
-### RS expense
+### Team expense
 
-These are expenes that are accounted for out of core funds and facilitated by the Coordinators. The list at the bottom of this agreement defines ongoing RS expenses that we do not need raise a decision for. Beyond this any member can raise a proposal via loomio to add another RS expense (one off or ongoing). RS expenses will be accounted for out of our opperational budget in xero.
+These are expenses that are accounted for out of core funds and facilitated by the Coordinators. The list at the bottom of this agreement defines ongoing Team expenses that we do not need raise a decision for. Beyond this any member can raise a proposal via Loomio to add another Team expense (one-off or on-going). Team expenses will be accounted for out of our opperational budget in Xero.
 
-### RS Member expense
+### Member expense
 
-Any member can expense off any items they identify as being a business expense. Coordinators will facilitate this to provide support and understanding of what constitutes a business expense. RS Members expenses will be accounted for through deducting the expense less gst from their internal account.
+Any Member can expense off any items they identify as being a business expense. Coordinators will facilitate this to provide support and understanding of what constitutes a business expense. Member expenses will be accounted for through deducting the expense minus GST from their internal account.
 
 **Everyday business lunch expenses will be standardised to $20/day to make internal accounting easier.
 
-## Agreed RS Expenses
+## Agreed Team Expenses
 
  - Office/desk rent
  - Saas tools
