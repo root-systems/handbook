@@ -7,7 +7,7 @@ As a worker owned business Root Systems members all have the ability to claim ex
  - Technical equipment (laptops, keyboards, etc...)
  - Office equipment (coffee machine, chairs, desk, lights, etc...)
  - Office rent
- - Retreats (travel, food and accomadation)
+ - Retreats and Away days (travel, food and accomadation)
  - Event expenses (tickets, foods, etc...)
  - Every day business lunches (50% tax deductable for members, 100% for guests)**
  - Travel expenses (72c/km, hotels, flights, etc...)
