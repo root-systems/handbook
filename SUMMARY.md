@@ -16,7 +16,7 @@
   * [Diversity](agreements/diversity-agreement.md)
   * [Buffer](agreements/buffer-agreement.md)
   * [Activity Types](agreements/activity-types.md)
-  * [Coordination](agreements/coordination-agreement.md)
+  * [Self-Management](agreements/self-management.md)
   * [Decisions](agreements/decisions-agreement.md)
 * [Service-Level Agreements](agreements/service-level.md)
   * [Golden Pandas](agreements/golden-pandas.md)
