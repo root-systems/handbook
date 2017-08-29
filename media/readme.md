@@ -2,6 +2,8 @@
 
 ## Blogs
 
+* [Root Systems' blog on Medium](https://medium.com/@rootsystems)
+
 ### Published
 
  * [A new financial model for consulting](https://medium.com/enspiral-tales/a-new-financial-model-for-consulting-c7781661a1ec)
