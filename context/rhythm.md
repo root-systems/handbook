@@ -28,3 +28,7 @@ This is a chill environment for us to relax and spend time with each other. Mayb
 Every year we spend 4-7 days somewhere out-of-town to set our annual big picture strategy.
 
 This is basically a long retreat with a specific focus on large-scale business planning and coordination.
+
+To comply with the [Companies Act](http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM320614) we also use this meeting as our Annual General Meeting for shareholders (all of our shareholders are members)
+
+We follow [this format](agm.md) for the formal part of the meeting.
