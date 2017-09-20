@@ -23,3 +23,8 @@ The purpose of a director is to keep the business running long term (as opposed 
 ### Rhythm
 
 * [Monthly meeting](directors-meeting.md) with second director to discuss issues, finances and projects
+
+## Change of directors
+If a director would like to step down, [by law](http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM320800) a director must resign by letter to the listed Root Systems address
+
+> A director of a company may resign office by signing a written notice of resignation and delivering it to the address for service of the company. The notice is effective when it is received at that address or at a later time specified in the notice.
