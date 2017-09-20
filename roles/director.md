@@ -22,4 +22,4 @@ The purpose of a director is to keep the business running long term (as opposed 
 
 ### Rhythm
 
-* Monthly meeting with second director to discuss issues, finances and projects
+* [Monthly meeting](directors-meeting.md) with second director to discuss issues, finances and projects
