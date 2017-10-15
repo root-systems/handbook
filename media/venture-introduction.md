@@ -6,9 +6,9 @@
 
 **Venture Stewards** 
 
-* one 
-* two
-* three
+* Mikey Williams
+* Mix Irving
+* Damian Sligo-Green
 
 **Venture Description**
 
@@ -23,11 +23,12 @@ Root Systems is a [livelihood pod](https://docs.google.com/document/d/1F7GYGf_5O
 our [Members](https://www.rootsystems.nz/members/readme.html)
 
 - Dan Lewis: Coordinator
-- Sarah Rogers: Coordinator
+- Mikey Williams: Coordinator
 - Iain Kirkpatrick: Director
 - Michael Smith: Director
-- Mikey Williams
+- Sarah Rogers
 - Greg Kan
+- Juliet Carpenter
 
 **Founding Date & Brief History**
 
@@ -43,11 +44,12 @@ Limited Liability Company with one share per member.
 
 - Software development
   - Contract work
-    - greenfield
+    - greenfield protopypes
     - full-stack JavaScript
     - React Native mobile
-  - Supply chain coordination products
+  - Social coordination (supply network) products
     - Cobuy (group purchasing)
+      - sold as Tapin to Ministry of Education
 
 **Impact Strategy / Theory of Change**
 
