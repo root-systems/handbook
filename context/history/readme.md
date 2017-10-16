@@ -54,7 +54,41 @@ For our next quarter, we
 
 - had our first away day, [read about it here](https://viewer.scuttlebot.io/%25P31bgqX6MBPD%2BJOXxquOlq5TRH9EPeJarPqDJ9APYIM%3D.sha256)
 - Michael embarked on an OE (Overseas Experience)
+- started doing senior development support working with Minded App (TODO link) and Civic Dinners (TODO link)
+- Sarah became a coordinator
 
 ![may-2017-away-day](./may-2017-away-day.jpg)
+
+- upgraded our hanbook (TODO link)
+- we were filmed and broadcasted for Tv NZ What Next (TODO link to SSB post)
+- worked with Disrupt Consulting on a project
+- Dan started meeting with "food change movement"
+- our primary contract hibernated (due to reasons beyond our control)
+- started development on Freehold
+- Cobuy development ramped up
+- had a conflict resolution workshop with Sarrah Jane
+- switched to Limber desks
+
+third (end of June, beginning of July) retreat in Greytown
+
+TODO pictures!
+
+- we joined R9 government-sponsored startup accelerator to develop a project (Tapin) for Ministry of Education
+- started more refactorings of our internal agreements and processes
+- started partnership to build software apps for mindfulness
+
+1st of August away day 
+
+TODO pictures!
+
+- Mikey went to CampJS and gave an "awesome" talk
+- agreed on a new financial model (TODO link)
+- Greg went on a writing fellowship
+- Dan met with "food change movement" in Nelson again
+- Juliet joined as a new (provisional) member
+
+fourth (end of August, beginning of September) retreat retreat back at Mikimiki
+
+TODO pictures!
 
 _to be continued_
