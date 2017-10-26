@@ -25,6 +25,7 @@
   * [Agile](processes/agile.md)
   * [Invoicing Clients](processes/invoicing_clients.md)
   * [Contractors](processes/working-with-rs.md)
+  * [Conflict Resolution](processes/conflict-resolution.md)
 * [Roles](roles/readme.md)
   * [Coordinator](roles/coordinator.md)
   * [Director](roles/director.md)
