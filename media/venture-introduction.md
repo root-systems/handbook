@@ -23,12 +23,12 @@ Root Systems is a [livelihood pod](https://docs.google.com/document/d/1F7GYGf_5O
 our [Members](https://www.rootsystems.nz/members/readme.html)
 
 - Dan Lewis: Coordinator
-- Mikey Williams: Coordinator
-- Iain Kirkpatrick: Director
-- Michael Smith: Director
-- Sarah Rogers
 - Greg Kan
+- Iain Kirkpatrick: Director
 - Juliet Carpenter
+- Michael Smith: Director
+- Mikey Williams: Coordinator
+- Sarah Rogers
 
 **Founding Date & Brief History**
 
@@ -49,7 +49,7 @@ Limited Liability Company with one share per member.
     - React Native mobile
   - Social coordination (supply network) products
     - Cobuy (group purchasing)
-      - sold as Tapin to Ministry of Education
+      - bundled with Loomio and sold as Tapin to Ministry of Education
 
 **Impact Strategy / Theory of Change**
 
