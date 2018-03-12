@@ -6,3 +6,4 @@ Here are our repeatable processes that we've been able to doucment so far:
 * [Invoicing Clients](./invoicing_clients.md)
 * [Contractors](./working-with-rs.md)
 * [Conflict Resolution](./conflict-resolution.md)
+* [Stewardship](./stewardship.md)

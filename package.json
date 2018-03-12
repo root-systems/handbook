@@ -7,6 +7,7 @@
     "gitbook-cli": "^2.3.0",
     "gitbook-plugin-anchors": "^0.7.1",
     "gitbook-plugin-collapsible-menu": "^1.0.3",
+    "gitbook-plugin-meta": "^0.1.12",
     "gitbook-plugin-youtube": "^1.1.0"
   }
 }
