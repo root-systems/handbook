@@ -1,4 +1,4 @@
-## Stewardship
+
 
 <img src="./stewards.png" alt="Rs stewardingCircle" />
 
