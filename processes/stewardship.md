@@ -1,6 +1,6 @@
 ## Stewardship
 
-<img src="./stewardingCircle.png" alt="Rs stewardingCircle" />
+<img src="./stewards.png" alt="Rs stewardingCircle" />
 
 From the Enspiral handbook -
 
