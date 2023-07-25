@@ -28,8 +28,6 @@ This agreement is dependent on three others:
 ## Member Remuneration
 Our simplified formula for a month's pay can be described as:
 
-![The Formula](https://github.com/root-systems/agreement-financial/blob/master/indivdual-emuneration-formula.png)
-
 **Base Income + Business Viability Bonus + Performance Bonus**
 
  - **Base Income:** This is the monthly amount a core member will always receive, no matter what number of hours they work.
@@ -57,6 +55,9 @@ Variables:
     - Level 2
     - Level 3
     - Level 4
+
+#### Summary
+![The Formula](https://github.com/root-systems/agreement-financial/blob/master/indivdual-emuneration-formula.png)
 
 
 ### The Formula
