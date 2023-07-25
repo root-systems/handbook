@@ -16,7 +16,7 @@
 >
 > At least that's the idea ;)
 
-{% include "git+https://github.com/enspiral-root-systems/agreement-financial.git/README.md#6136c5b8ac5d84459f2460bdfbaed6adf5488ec8" %}
+{% include "git+https://github.com/root-systems/agreement-financial.git/README.md#6136c5b8ac5d84459f2460bdfbaed6adf5488ec8" %}
 
 # Archived agreements
 
