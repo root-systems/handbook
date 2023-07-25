@@ -21,9 +21,9 @@
 ## Dependencies
 This agreement is dependent on three others:
 
- - [Activity Types Agreement](/internal/activity-types)
- - [Self Management Agreement](/internal/self-management)
- - [Buffer Agreement](/internal/buffer-agreement)
+ - [Activity Types Agreement](./activity-types.md)
+ - [Self Management Agreement](./self-management.md)
+ - [Buffer Agreement](./buffer-agreement.md)
 
 ## Member Remuneration
 Our simplified formula for a month's pay can be described as:
