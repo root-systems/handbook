@@ -21,9 +21,9 @@
 ## Dependencies
 This agreement is dependent on three others:
 
- - [Activity Types Agreement](https://www.rootsystems.nz/agreements/activity-types.html)
- - [Self Management Agreement](https://www.rootsystems.nz/agreements/self-management.html)
- - [Buffer Agreement](https://www.rootsystems.nz/agreements/buffer-agreement.html)
+ - [Activity Types Agreement](/internal/activity-types)
+ - [Self Management Agreement](/internal/self-management)
+ - [Buffer Agreement](/internal/buffer-agreement)
 
 ## Member Remuneration
 Our simplified formula for a month's pay can be described as:
